@@ -4,3 +4,4 @@ New instruction added.
 
 Added logic for   add button.
 
+Bug fixed.
